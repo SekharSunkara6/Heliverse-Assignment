@@ -1,55 +1,8 @@
 
-# Classroom Management System
+# full-stack classroom website.
 
-A full-stack classroom management web application that allows principals, teachers, and students to manage classroom activities seamlessly. The project was developed as part of a Full Stack Development Screening Assignment.
+A complete classroom management web app for principals, teachers, and students to smoothly handle classroom tasks.
 
-## Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Live Demo](#live-demo)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Features
-
-### Principal
-- Create and manage classrooms.
-- Create accounts for teachers and students.
-- Assign teachers to classrooms.
-- Assign students to teachers.
-- View and edit the list of teachers and students.
-
-### Teacher
-- Manage students assigned to their classroom.
-- View the lists their classrooms and students.
-
-### Student
-- View their assigned classroom.
-- View other students in their classroom.
-
-## Tech Stack
-
-### Frontend
-- React.js (Vite)
-- Tailwind CSS for styling
-
-### Backend
-- Node.js
-- Express.js
-- MongoDB
-
-### Deployment
-- Frontend: Vercel
-- Backend: Render
-
-## Installation
-
-### Prerequisites
-- Node.js and npm installed
-- MongoDB database setup
 
 ### Backend Setup
 
