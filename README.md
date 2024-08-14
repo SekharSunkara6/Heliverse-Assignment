@@ -48,6 +48,6 @@ A complete classroom management web app for principals, teachers, and students t
 ## Usage
 
 - Principal can log in with the default credentials:
-  - **Email:** principal@classroom.com
-  - **Password:** Admin
+  1) **Email:** principal@classroom.com
+  2) **Password:** Admin
 - Teachers and students can be added by the principal.
