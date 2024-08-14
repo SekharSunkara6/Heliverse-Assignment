@@ -8,7 +8,7 @@ A complete classroom management web app for principals, teachers, and students t
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/abhimanyu0018/classroom.git
+    git clone https://github.com/SekharSunkara6/Heliverse-Assignment.git
     cd classroom/server
     ```
 
@@ -51,15 +51,3 @@ A complete classroom management web app for principals, teachers, and students t
   - **Email:** principal@classroom.com
   - **Password:** Admin
 - Teachers and students can be added by the principal.
-
-## Live Demo
-
-Check out the live version of the app [here](https://classroom-fawn.vercel.app).
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a pull request or open an issue.
-
-## License
-
-This project is licensed under the MIT License.
